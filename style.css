@@ -1,7 +1,7 @@
 html, body {
     height: 100%; /* Garante que o corpo ocupe toda a altura da tela */
     margin: 0;
-    font-family: sans-serif;
+    font-family: "Roboto","Edu NSW ACT Hand Pre",sans-serif;
 }
 
 body {
@@ -9,4 +9,14 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-color: #fAF9F6;
+    color: #000003;
+}
+h1 {
+  font-family: "Edu NSW ACT Hand Pre";
+  font-weight: 700;
+}
+p {
+  font-weight: 400;
+  font-family: "Roboto";
 }
