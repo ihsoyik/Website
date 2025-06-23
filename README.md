@@ -1,2 +1,2 @@
 # MyWebpage
-Learn to make a site
+Learning to make a site
