@@ -5,15 +5,8 @@ html, body {
 }
 
 body {
-    /* 1. Ativa o modo Flexbox */
     display: flex;
-
-    /* 2. Centraliza horizontalmente */
     justify-content: center;
-
-    /* 3. Centraliza verticalmente */
     align-items: center;
-
-    /* 4. Empilha os elementos (título sobre o parágrafo) */
     flex-direction: column;
 }
